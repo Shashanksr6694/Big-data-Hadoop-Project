@@ -1,0 +1,74 @@
+
+Starting Nmap 5.51 ( http://nmap.org ) at 2016-01-05 11:58 IST
+Nmap scan report for desktop7.example.com (192.168.0.7)
+Host is up (0.000090s latency).
+MAC Address: 00:1A:A0:C0:3C:1B (Dell)
+Nmap scan report for desktop15.example.com (192.168.0.15)
+Host is up (0.000078s latency).
+MAC Address: BC:AE:C5:C1:57:9B (Unknown)
+Nmap scan report for desktop21.example.com (192.168.0.21)
+Host is up (0.00014s latency).
+MAC Address: BC:AE:C5:C1:57:99 (Unknown)
+Nmap scan report for desktop23.example.com (192.168.0.23)
+Host is up (0.000088s latency).
+MAC Address: 00:1A:A0:C0:3B:37 (Dell)
+Nmap scan report for desktop24.example.com (192.168.0.24)
+Host is up (0.000064s latency).
+MAC Address: 6C:F0:49:18:27:6B (Giga-byte Technology Co.)
+Nmap scan report for desktop41.example.com (192.168.0.41)
+Host is up (0.000070s latency).
+MAC Address: 00:1A:A0:D6:1F:6B (Dell)
+Nmap scan report for desktop43.example.com (192.168.0.43)
+Host is up (0.000093s latency).
+MAC Address: F4:6D:04:D1:39:EC (Unknown)
+Nmap scan report for desktop57.example.com (192.168.0.57)
+Host is up (0.000067s latency).
+MAC Address: BC:AE:C5:C1:59:82 (Unknown)
+Nmap scan report for desktop61.example.com (192.168.0.61)
+Host is up (0.000085s latency).
+MAC Address: 00:1A:A0:C0:3B:CF (Dell)
+Nmap scan report for desktop68.example.com (192.168.0.68)
+Host is up (0.000073s latency).
+MAC Address: 6C:F0:49:18:2B:2C (Giga-byte Technology Co.)
+Nmap scan report for desktop75.example.com (192.168.0.75)
+Host is up (0.00077s latency).
+MAC Address: 58:7B:E9:03:06:DE (Unknown)
+Nmap scan report for desktop80.example.com (192.168.0.80)
+Host is up (0.000080s latency).
+MAC Address: BC:AE:C5:C1:59:80 (Unknown)
+Nmap scan report for desktop83.example.com (192.168.0.83)
+Host is up.
+Nmap scan report for desktop89.example.com (192.168.0.89)
+Host is up (0.000067s latency).
+MAC Address: 00:1A:A0:C0:3B:FD (Dell)
+Nmap scan report for desktop91.example.com (192.168.0.91)
+Host is up (0.00011s latency).
+MAC Address: 20:CF:30:F2:F4:02 (Asustek Computer)
+Nmap scan report for desktop93.example.com (192.168.0.93)
+Host is up (0.000063s latency).
+MAC Address: 00:1A:A0:C0:3E:B8 (Dell)
+Nmap scan report for server25.example.com (192.168.0.125)
+Host is up (0.000088s latency).
+MAC Address: 00:1A:A0:C0:2A:FC (Dell)
+Nmap scan report for server40.example.com (192.168.0.140)
+Host is up (0.000097s latency).
+MAC Address: 00:13:72:20:60:49 (Dell)
+Nmap scan report for server43.example.com (192.168.0.143)
+Host is up (0.00040s latency).
+MAC Address: 52:54:00:00:00:43 (QEMU Virtual NIC)
+Nmap scan report for server57.example.com (192.168.0.157)
+Host is up (0.00070s latency).
+MAC Address: 52:54:00:00:00:57 (QEMU Virtual NIC)
+Nmap scan report for server76.example.com (192.168.0.176)
+Host is up (0.00013s latency).
+MAC Address: A4:5D:36:CB:12:79 (Unknown)
+Nmap scan report for server77.example.com (192.168.0.177)
+Host is up (0.000065s latency).
+MAC Address: 00:01:6C:10:60:D9 (Foxconn)
+Nmap scan report for 192.168.0.221
+Host is up (0.000090s latency).
+MAC Address: 00:1A:A0:CF:D3:E9 (Dell)
+Nmap scan report for instructor.example.com (192.168.0.254)
+Host is up (0.00012s latency).
+MAC Address: 00:1A:A0:C0:3B:D1 (Dell)
+Nmap done: 256 IP addresses (24 hosts up) scanned in 1.32 seconds
